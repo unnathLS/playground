@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# FastAPI
+*.db
+
+# OS
+.DS_Store
+
+# Ignore .gitkeep
+.gitkeep
